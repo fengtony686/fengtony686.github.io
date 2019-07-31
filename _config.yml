@@ -1,10 +1,10 @@
 # Site settings
-title: Tony's Small Room
-SEOTitle: 冯时的博客 | Tony's Small Room
+title: Tony's Cottage
+SEOTitle: 冯时的博客 | Tony's Cottage
 header-img: img/post-bg-desk.jpg
 email: fengtony686@gmail.com
 description: "Hi,everyone.我是冯时，这是我的博客，这里将记录我生活，学习中那些有趣的事。"
-keyword: "冯时, Tony's Small Room, fengshi, Tony Feng, tonyfeng, iOS, Apple, iPhone, 冯时的博客"
+keyword: "冯时, Tony's Cottage, fengshi, Tony Feng, tonyfeng, iOS, Apple, iPhone, 冯时的博客"
 url: "http://fengtony686.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/fengtony686/fengtony686.github.io.git" # you code repository
