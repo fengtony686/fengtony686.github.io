@@ -12,7 +12,7 @@ github_repo: "https://github.com/fengtony686/fengtony686.github.io.git" # you co
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "我们渺小，但并不孤单"
-sidebar-avatar: /img/avatar_m.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/tsinghua.jfif      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
