@@ -4,7 +4,7 @@ title:      树结构信息网络在经济学中的应用
 subtitle:   以及一个基于超图理论的推广
 date:       2019-11-15
 author:     Tony Feng
-header-img: img/tree.jpeg
+header-img: img/tree.jpg
 catalog: true
 tags:
     - 论文
