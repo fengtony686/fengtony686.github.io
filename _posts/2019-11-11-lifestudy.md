@@ -2,7 +2,7 @@
 layout:     post
 title:      期中总结
 subtitle:   学习与生活的认知
-date:       2019-11-15
+date:       2019-11-11
 author:     Tony Feng
 header-img: img/lifeandstudy.jpg
 catalog: true

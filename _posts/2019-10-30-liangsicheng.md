@@ -2,7 +2,7 @@
 layout:     post
 title:      梁陈方案的历史地位
 subtitle:   读《梁》有感
-date:       2019-11-15
+date:       2019-10-30
 author:     Tony Feng
 header-img: img/liang.jpeg
 catalog: true
