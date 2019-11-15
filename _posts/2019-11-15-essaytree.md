@@ -22,7 +22,7 @@ tags:
 
 # 树结构信息网络在经济学中的应用
 [**点击查看全文**](../essay/tree.pdf)\\
-[**BibTex**]()
+[**BibTex**](../essay/tree.txt)
 
 # 参考文献
 [1] Diestel and Reinhard, Graph Theory (3rd ed.), Berlin, New York: Springer-Verlag, 2015.\\
