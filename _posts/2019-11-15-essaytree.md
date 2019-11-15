@@ -21,8 +21,8 @@ tags:
 图的改进模型。
 
 # 树结构信息网络在经济学中的应用
-[**点击查看全文**](../essay/tree.pdf)\\
-[**BibTex**](../essay/tree.txt)
+[**点击查看全文**](https://fengtony686.github.io/essay/tree.pdf)\\
+[**BibTex**](https://fengtony686.github.io/essay/tree.txt)
 
 # 参考文献
 [1] Diestel and Reinhard, Graph Theory (3rd ed.), Berlin, New York: Springer-Verlag, 2015.\\
