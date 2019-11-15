@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Development of NAS
-subtitle:   A Survey Of Neural Architecture Search
+subtitle:   a survey of Neural Architecture Search
 date:       2019-11-15
 author:     Tony Feng
 header-img: img/AutoML.png
