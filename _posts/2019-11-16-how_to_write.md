@@ -4,7 +4,7 @@ title:      如何写作
 subtitle:   读《写作这门手艺（结构）》有感
 date:       2019-11-16
 author:     Tony Feng
-header-img: img/Typora.jpg
+header-img: img/post-bg-bord.jpg
 catalog: true
 tags:
     - 文学
