@@ -99,8 +99,11 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "Tsinghua",
+        title: "Tsinghua University",
         href: "https://www.tsinghua.edu.cn"
+    },{
+        title: "IIIS",
+        href: "https://iiis.tsinghua.edu.cn/"
     },{
         title: "Sharzy Luo",
         href: "https://sharzy.in"
