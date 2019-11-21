@@ -80,7 +80,7 @@ function create() {
     credits = game.add.text(
         game.world.width / 2,
         10,
-        'marksteve.com/dtmb\n@themarksteve',
+        'fengtony686.github.io/game/bird\n@fengtony686',
         {
             font: '8px "Press Start 2P"',
             fill: '#fff',
