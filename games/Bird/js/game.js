@@ -168,7 +168,7 @@ function addScore() {
 
 function updateScoreText() {
   scoreText.setText(
-    '+ %s s'.replace('%s', score)
+    '发表 %s 篇论文'.replace('%s', score)
   );
 }
 
@@ -180,7 +180,7 @@ function updateTimeElapsed() {
     return;
    timeElapsed = a;
    timeElapsedText.setText(
-     '- %s s'.replace('%s', timeElapsed)
+     '用时 %s 年'.replace('%s', timeElapsed)
    );
 }
 

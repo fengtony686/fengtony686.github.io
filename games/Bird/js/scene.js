@@ -52,7 +52,7 @@ var playButton, restartButton, feedbackButton, playBgmButton;
 
 function setLoadingText(percent) {
   loadingText.setText(
-    'Loading...\n\n努力加载中: %s %'.replace('%s', percent)
+    'Loading...\n\n正在接受义务教育中: %s %'.replace('%s', percent)
   );
 }
 
@@ -94,7 +94,7 @@ function createButtons() {
     y: global.phaserGame.height - global.phaserGame.height / 3,
     anchorX: 0.5,
     anchorY: 0.5,
-    text: '开始'
+    text: '开始学术生涯'
   });
   playButton.hide();
 
@@ -109,7 +109,7 @@ function createButtons() {
     y: global.phaserGame.height - global.phaserGame.height / 5,
     anchorX: 0.5,
     anchorY: 0.5,
-    text: '重新开始'
+    text: '重新开始学术生涯'
   });
   restartButton.hide();
 
@@ -122,7 +122,7 @@ function createButtons() {
     x: 0,
     y: 0,
     size: '14px',
-    text: '回到主页'
+    text: '清华大学'
   });
 
   feedbackButton.events.onInputUp.add(function() {
@@ -140,7 +140,7 @@ function createButtons() {
     y: 0,
     anchorX: 1,
     size: '14px',
-    text: '播放背景音乐'
+    text: '播放校歌'
   });
 
   playBgmButton.events.onInputUp.add(function() {
@@ -167,7 +167,7 @@ function createScoreText() {
 }
 
 function showScore() {
-  var text = '您的得分为 %s 分\n用时 %s 秒\n平均每秒得到 %s% 分\n\n最好的一次得分为 %s 分';
+  var text = '您发表了 %s 篇文章\n用时 %s 年\n平均每年发表 %s% 篇\n\n最好的一次发表了 %s 篇';
 
   var score = global.score;
   var timeElapsed = global.timeElapsed;
