@@ -167,7 +167,7 @@ function createScoreText() {
 }
 
 function showScore() {
-  var text = '您发表了 %s 篇文章\n用时 %s 年\n平均每年发表 %s% 篇\n\n最好的一次发表了 %s 篇';
+  var text = '您发表了 %s 篇文章\n用时 %s 年\n平均每年发表 0.%s 篇\n\n最好的一次发表了 %s 篇';
 
   var score = global.score;
   var timeElapsed = global.timeElapsed;
