@@ -1,4 +1,4 @@
-@article{tony2018tree,
+@article{tony2019tree,
   title={树结构信息网络在经济学中的应用},
   author={冯时},
   journal={https://fengtony686.github.io/essay/tree.pdf},

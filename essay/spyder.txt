@@ -1,0 +1,7 @@
+@article{tony2019jdspyder,
+  title={基于用户评价改进产品结构——以华为手机为例},
+  author={冯时},
+  journal={https://fengtony686.github.io/essay/spyder.pdf},
+  year={2019},
+  month={December}
+}
