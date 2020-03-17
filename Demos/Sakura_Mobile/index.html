@@ -45,10 +45,10 @@ cxt.shadowBlur = 10 ;
 
 function drawTree(x,y,deg,step,type){
     var deg1 = step%2 == 0 ? 0.1 : -0.1 ;
-    var x1 = x + Math.cos(deg+deg1) * (step+3.5) * 1 ;
+    var x1 = x + Math.cos(deg+deg1) * (step+4) * 0.8 ;
     var y1 = y + Math.sin(deg+deg1) * (step-1) * 0.8 ;
     tCxt.beginPath();
-    tCxt.lineWidth = step/2;
+    tCxt.lineWidth = step/3;
     tCxt.moveTo(x,y);
     tCxt.lineTo(x1,y1);
     tCxt.strokeStyle = (step > 5 ) ? treeColor : treeColor2 ;
@@ -58,7 +58,7 @@ function drawTree(x,y,deg,step,type){
         tCxt.arc(x,y,step/6,0,Math.PI*2);
         tCxt.fill();
     }
-    if(step < 3 || (step < 40 && Math.random() > 0.1)){
+    if(step < 3 || (step < 23 && Math.random() > 0.1)){
         var color = [flowerColorDeep,flowerColor,flowerColor][Math.round(Math.random()+0.2)] ;
         var r = 2+Math.random()*2
         tCxt.fillStyle = color ;
@@ -69,14 +69,14 @@ function drawTree(x,y,deg,step,type){
     step -- ;
     if(step > 0){
         drawTree(x1,y1,deg,step,type);
-        if(step%3 == 1 && step > 0 && step < 40)
-            drawTree(x1,y1,deg+0.5 + 0.3 * Math.random(),Math.round(step/1.13));
-        if(step%3 == 0 && step > 0 && step < 40)
-            drawTree(x1,y1,deg-0.5 - 0.3 * Math.random(),Math.round(step/1.13));
+        if(step%3 == 1 && step > 0 && step < 30)
+            drawTree(x1,y1,deg+0.2 + 0.3 * Math.random(),Math.round(step/1.13));
+        if(step%3 == 0 && step > 0 && step < 30)
+            drawTree(x1,y1,deg-0.2 - 0.3 * Math.random(),Math.round(step/1.13));
     }
 }
 
-drawTree(tree.width/2,rootTop,-Math.PI/2,45,1);
+drawTree(tree.width/2,rootTop,-Math.PI/2,30,1);
 
 var len = flowerList.length ;
 function step(){
@@ -88,7 +88,7 @@ function step(){
         fallList[i].sx += gWind ;
         fallList[i].x += fallList[i].sx ;
         fallList[i].y += fallList[i].sy ;
-        if(fallList[i].y > rootTop+40){
+        if(fallList[i].y > rootTop+30){
             fallList.splice(i,1);
             i -- ;
             continue ;
@@ -101,7 +101,6 @@ function step(){
     }
     requestAnimationFrame(step);
 }
-window.alert("This is a demo of Sakura!\n:|･ω･)ﾉ武汉！加油！");
 requestAnimationFrame(step);
 </script>
 </body>
