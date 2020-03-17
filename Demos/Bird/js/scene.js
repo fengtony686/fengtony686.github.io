@@ -122,7 +122,7 @@ function createButtons() {
     x: 0,
     y: 0,
     size: '14px',
-    text: '清华大学'
+    text: '学术生涯'
   });
 
   feedbackButton.events.onInputUp.add(function() {

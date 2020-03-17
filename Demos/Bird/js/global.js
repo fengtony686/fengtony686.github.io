@@ -13,8 +13,8 @@ exports.settings = {
   canvas: true,
   antialias: false,
   debug: false,
-  scoreSounds: 43,
-  hurtSounds: 21
+  scoreSounds: 5,
+  hurtSounds: 2
 };
 
 });
