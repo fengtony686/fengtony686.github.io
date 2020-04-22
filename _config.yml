@@ -5,7 +5,7 @@ header-img: img/Singapore0.webp
 email: me@wuhanhour.icu
 description: "Hi,everyone.我是冯时，这是我的博客，这里将记录我生活，学习中那些有趣的事。"
 keyword: "冯时, Tony's Cottage, fengshi, Tony Feng, tonyfeng, iOS, Apple, iPhone, 冯时的博客"
-url: "http://fengtony686.github.io"          # your host, for absolute URL
+url: "https://www.wuhanhour.icu"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/fengtony686/fengtony686.github.io.git" # you code repository
 
