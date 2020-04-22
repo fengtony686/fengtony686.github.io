@@ -1,8 +1,8 @@
 # Site settings
 title: Tony's Cottage
 SEOTitle: 冯时的博客 | Tony's Cottage
-header-img: img/Singapore0.jpeg
-email: fengtony686@gmail.com
+header-img: img/Singapore0.webp
+email: me@wuhanhour.icu
 description: "Hi,everyone.我是冯时，这是我的博客，这里将记录我生活，学习中那些有趣的事。"
 keyword: "冯时, Tony's Cottage, fengshi, Tony Feng, tonyfeng, iOS, Apple, iPhone, 冯时的博客"
 url: "http://fengtony686.github.io"          # your host, for absolute URL
@@ -29,7 +29,6 @@ twitter_username:   TonyFeng686
 
 
 # Build settings
-# from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
 permalink: pretty
 paginate: 10
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
