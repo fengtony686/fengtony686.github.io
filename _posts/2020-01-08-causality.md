@@ -16,8 +16,8 @@ tags:
 Causality is an important concept in machine learning. However, it has not been attached enough importance. However, in the future, artiﬁcial intelligence can not be merely curve ﬁtting and stay at the level of association. Causality models will be a signiﬁcant step to achieve strong AI. In this survey, the deﬁnition of causality will be introduced at ﬁrst, including three levels of causality and the diﬀerence between event causality and procedure causality. In the third section, a model called SCM which is the most complete causal model at present will be introduced. Then we will demonstrate how can it solve some of the problems in machine learning. A simple approach to the causal loop diagram will be made in the ﬁfth part. Although researches towards causality is not focused and many parts need to be improved, many remain optimistic about the development of causality. 
 
 # A Survey towards Causality in Machine Learning
-[**Download PDF**](https://fengtony686.github.io/essay/survey_of_causality.pdf)(Please wait for a few seconds)\\
-[**BibTex**](https://fengtony686.github.io/essay/survey_of_causality.txt)
+[**Download PDF**](https://www.wuhanhour.icu/essay/survey_of_causality.pdf)(Please wait for a few seconds)\\
+[**BibTex**](https://www.wuhanhour.icu/essay/survey_of_causality.txt)
 
 # References
 Kenneth Appel and Wolfgang Haken. Every planar map is four colorable. Bulletin of the American mathematical Society, 82(5):711–712, 1976.

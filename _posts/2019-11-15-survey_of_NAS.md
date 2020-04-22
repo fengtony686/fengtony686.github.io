@@ -16,8 +16,8 @@ tags:
 NAS is a set of algorithms to search for the neural architectures. From 2017, the publication date of the first essay delivered by Google Brain about NAS (Zoph and Le, 2016), NAS has become one of the topics of machine learning. In our survey, we will demonstrate the development of NAS from the conventional NAS to PNAS and ENAS. Simultaneously, in the fourth part of our survey, we will demonstrate an application of the NAS algorithms in the ﬁeld of image recognition. In the fifth section, to demonstrate the convenience of NAS, we have done an experiment using AutoKeras on Colab. In the last part of our survey, we show a big picture of the researches done on NAS and then list several possible improvements of NAS in the future years.
 
 # Development of NAS
-[**Download PDF**](https://fengtony686.github.io/essay/survey_of_NAS.pdf)(Please wait for a few seconds)\\
-[**BibTex**](https://fengtony686.github.io/essay/survey_of_NAS.txt)
+[**Download PDF**](https://www.wuhanhour.icu/essay/survey_of_NAS.pdf)(Please wait for a few seconds)\\
+[**BibTex**](https://www.wuhanhour.icu/essay/survey_of_NAS.txt)
 
 # References
 Han Cai, Ligeng Zhu, and Song Han. Proxylessnas: Direct neural architecture search on target task and hardware. arXiv preprint arXiv:1812.00332, 2018.
