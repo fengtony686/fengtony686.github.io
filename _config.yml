@@ -17,7 +17,7 @@ sidebar-avatar: /img/kaka.webp      # use absolute URL, seeing it's used in both
 
 
 # SNS settings
-RSS: false
+RSS: True
 weibo_username:     6068528244
 zhihu_username:     hua-meng-de-xian-cao-62
 github_username:    fengtony686
