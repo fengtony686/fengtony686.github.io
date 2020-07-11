@@ -5,7 +5,7 @@ header-img: img/Singapore0.jpg
 email: me@wuhanhour.icu
 description: "Hi,everyone.我是冯时，这是我的博客，这里将记录我生活，学习中那些有趣的事。"
 keyword: "冯时, Tony's Cottage, fengshi, Tony Feng, tonyfeng, iOS, Apple, iPhone, 冯时的博客"
-url: "https://www.wuhanhour.icu"          # your host, for absolute URL
+url: "https://fengtony686.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/fengtony686/fengtony686.github.io.git" # you code repository
 
@@ -77,7 +77,7 @@ gitalk:
 
 # Google Analytics
 ga_track_id: 'UA-144943571-1'            # Format: UA-xxxxxx-xx
-ga_domain: www.wuhanhour.icu             # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+ga_domain: auto           # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
