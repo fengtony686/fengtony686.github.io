@@ -4,7 +4,7 @@ title:      Debiasing Irrelevant Words in Natural Language Processing
 subtitle:   More Information about Our Work
 date:       2020-12-31
 author:     Tony Feng
-header-img: img/economy.jpg
+header-img: img/post-bg-YesOrNo.jpg
 catalog: true
 tags:
     - 论文
@@ -41,6 +41,10 @@ See poster (address at the end of the article) for the specific weights assignme
 ![f1-score](https://p.sda1.dev/0/e899fd370eb4ac2f95c08ffe722fda87/F1-score.png)
 
 The above image shows the F1-scores of the two models before and after the debiasing on the three datasets, and we can see that the model after the debiasing clearly performs better, which indicates that the debiased model generalizes better. However, this is not enough to show that we have successfully removed the model bias caused by the presence or absence of neutral words, so we have completed another experiment. This experiment looked at the change in model prediction by replacing neutral words with unit vectors from word2vec. Admittedly, this setting introduces structural changes to the sentences, but we argue here that the effect on sentence structure is negligible for sentiment analysis tasks.
+
+![comparison](https://p.sda1.dev/0/946501390c4ce0b7d69dcc00e33eb06d/difference_comparison.png)
+
+As shown above, in the new model, the effect of our selected neutral words on the model is somewhat reduced.
 
 # References
 
