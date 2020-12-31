@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Artificial Intelligence Poster Session
+title:      Debiasing Irrelevant Words in Natural Language Processing
 subtitle:   More Information about Our Work
 date:       2020-12-31
 author:     Tony Feng
